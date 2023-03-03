@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 message
 =======
 # Variables, If, Else, & While
@@ -17,3 +18,6 @@ message
 * 101-print_comb4.c: program that prints triple digit combos
 * 102-print_comb5.c: program that prints all possible combinations of two two-digit numbers
 >>>>>>> b6d92505dfc5f2c3a4abb3df771ec1cc94f7771f
+=======
+this is a readme file
+>>>>>>> 93b8dfe121f33feec0413fc37e2c70a71faa8cdc

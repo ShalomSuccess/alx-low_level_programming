@@ -1,9 +1,17 @@
 #include "main.h"
 
 /**
+<<<<<<< HEAD
  * more_numbers - prints numbers 0-14 ten times
  *
  * Return: void
+=======
+ * more_numbers- mprints more numbers
+ * Description: program will assign a random number to the variable n each time
+ * it is executed.
+ *
+ * Return: returns the answer
+>>>>>>> 93b8dfe121f33feec0413fc37e2c70a71faa8cdc
  */
 
 void more_numbers(void)

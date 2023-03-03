@@ -1,5 +1,8 @@
 #include "main.h"
+<<<<<<< HEAD
 
+=======
+>>>>>>> 93b8dfe121f33feec0413fc37e2c70a71faa8cdc
 /**
  * print_square - draws a square
  * @size: length and width of square

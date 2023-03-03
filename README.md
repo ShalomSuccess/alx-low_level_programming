@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Variables, If, Else, & While
 * 0-positive_or_negative.c: program that determines whether a random number is positive, negative, or 0
 * 1-last_digit.c: program that prints the last digit of a random number
@@ -13,3 +14,6 @@
 * 100-print_comb3.c: program that prints double digit combos
 * 101-print_comb4.c: program that prints triple digit combos
 * 102-print_comb5.c: program that prints all possible combinations of two two-digit numbers
+=======
+alx-course
+>>>>>>> 93b8dfe121f33feec0413fc37e2c70a71faa8cdc
