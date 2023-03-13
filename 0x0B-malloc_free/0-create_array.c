@@ -6,7 +6,7 @@ char *create_array(unsigned int size, char c){
 	ptArray = malloc(size * sizeof(char));
 
 
-	if (size == 0 || str == NULL)
+	if (size == 0 || count == NULL)
 
 		return (NULL);
 
