@@ -1,6 +1,7 @@
-#include <stdio.h>
+#include "main.h"
+		
 #include <stdlib.h>
-#include "main.h"		
+		
 /**
 		
  * create_array - create array of size size and assign char c
@@ -16,19 +17,31 @@
  *
 		
  */
-char *create_array(unsigned int size, char c){
-	char *ptArray;
-	unsigned int count;
-	ptArray = malloc(size * sizeof(char));
+		
+char *create_array(unsigned int size, char c)
+		
+{
+		
+	char *str;
+		
+	unsigned int i;
+		
 
-
-	if (size == 0 || count == NULL)
-
+		
+	str = malloc(sizeof(char) * size);
+		
+	if (size == 0 || str == NULL)
+		
 		return (NULL);
+		
 
-	for(count = 0; count < size; count++){
-		ptArray[count] = c;
-	}
-	return (ptArray);
+		
+	for (i = 0; i < size; i++)
+		
+		str[i] = c;
+		
+	return (str);
+		
 }
+
 
